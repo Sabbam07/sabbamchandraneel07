@@ -218,6 +218,7 @@
     <form action="https://formsubmit.co/sabbam2004@gmail.com" method="POST">
 <input type="hidden" name="_autoresponse" value="Mesaage From OwnWeb">
 <input type="hidden" name="_subject" value="message from Sabbam Chandraneel!">
+<input type="hidden" name="_next" value="https://sabbam07.github.io/sabbamchandraneel07/">
 
         <input type="text" placeholder="name" class="box">
         <input type="email" placeholder="email" class="box">
