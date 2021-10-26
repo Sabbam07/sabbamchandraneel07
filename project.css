@@ -1,0 +1,192 @@
+Body{
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+
+}
+
+li {
+  float: left;
+ overflow:hidden;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+.active {
+  background-color: #04AA6D;
+}
+li {
+  float: left;
+ display: inline;
+}
+
+round-color:blue;
+}
+li {
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+  border-right: none;
+}
+body{
+*{
+margin:0;
+padding:0;
+text-color:white;
+}
+body{
+background-repeat:norepeat;
+		color:yellow;
+	text-align:center;
+	margin:10px;
+	border-style:double;
+	border-width:2px;
+	border-color:black;
+}
+}
+header{
+text-align:center;
+color:#fff;
+
+}
+hgroup h1{
+color:#fff;
+text-align:center;
+float:center;
+}
+article h1{
+color:#fff;
+text-align:center;
+}
+hgroup h2{
+color:#fff;
+text-align:center;
+}
+p{
+text-align:left;
+font-family:sans-serif;
+font-size:15px;
+}
+section h1{
+color:black;
+text-align:center;
+}
+section img{
+width:80px;
+height:70px;
+
+}
+img{
+positin:center;
+}
+marquee{
+color:#fff;
+}
+button{
+background-color: black;
+color: #fff;
+border: 2px solid darkblue;
+text-align: center;
+display: inline-block;
+font-size: 16px;
+padding: 10px 24px;
+button-align:center;
+transition-duration: 0.4s;
+}
+.button:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+footer{
+text-align:center;
+	
+	color:white;
+	
+}
+.container {
+  border: 2px solid #ccc;
+  background-color:#eee;
+  border-radius: 5px;
+  padding: 16px;
+  margin: 16px 0;
+}
+.container h1{
+color:blue;
+}
+
+/* Clear floats after containers */
+.container::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Float images inside the container to the left. Add a right margin, and style the image as a circle */
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+/* Increase the font-size of a span element */
+.container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+/* Add media queries for responsiveness. This will center both the text and the image inside the container */
+@media (max-width: 500px) {
+  .container {
+    text-align: center;
+  }
+
+  .container img {
+    margin: auto;
+    float: none;
+    display: block;
+  }
+}
+
+form{
+         float:center;	
+	text-align:center;
+	margin:15px;
+	border-style:solid;
+	border-width:4px;
+}
+
