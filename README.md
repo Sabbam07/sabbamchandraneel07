@@ -21,8 +21,9 @@ Sabbam Chandraneel
 			<a href="https://codepen.io/P1N2O/full/pyBNzX" class="btn btn-outline-light"> <i class="fas fa-expand ms-2"></i></a>
 		
 		
+
 </div>
-</div>
+<header>
 <hgroup>
 <b>****MannaYuvatha****</b><br/>
 <h1>Welcome To MannaYuvatha</h1>
@@ -52,8 +53,7 @@ In mannayuvatha, you can learn many updates related to youth and can learn many 
 And neel groups is nothing but it’s a type of educational program also going to release this program with good implementation with high video and audio recording<br/><br/>
 <a href="https://mannayuvatha.blogspot.com/p/about-us.html">Read More Here</a>
 </p>
-</article>
-</section>
+
 <div class="partners" id="partners">
 <h1><b>Our Partners</b></h1>
  <div class="container">
@@ -86,7 +86,7 @@ And neel groups is nothing but it’s a type of educational program also going t
 
 </form>
 
-</body><br/>
+<br/>
 <footer>
 Copyright©<b>Mannayuvatha</b><br/><br/>
 Credit Of This Websie Goes To <i><b>sabbam chandraneel</b></i>
