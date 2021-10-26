@@ -215,10 +215,8 @@
 
     </div>
 
-    <form action="https://formsubmit.co/sabbam2004@gmail.com" method="POST">
-<input type="hidden" name="_autoresponse" value="Mesaage From OwnWeb">
-<input type="hidden" name="_subject" value="message from Sabbam Chandraneel!">
-<input type="hidden" name="_next" value="https://sabbam07.github.io/sabbamchandraneel07/">
+    <form action="4a2f0dfb-e3e5-4a8e-b8d5-0081eb4f0ae1 ">
+
 
         <input type="text" placeholder="name" class="box">
         <input type="email" placeholder="email" class="box">
