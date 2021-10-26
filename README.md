@@ -215,7 +215,10 @@
 
     </div>
 
-    <form action="4a2f0dfb-e3e5-4a8e-b8d5-0081eb4f0ae1 ">
+   <form action="https://formsubmit.co/sabbam2004@gmail.com" method="POST" />
+<input type="email" name="email" placeholder="Email Address">
+<input type="hidden" name="_next" value="thankyou.html">
+<input type="hidden" name="_subject" value="New sabbam">
 
 
         <input type="text" placeholder="name" class="box">
